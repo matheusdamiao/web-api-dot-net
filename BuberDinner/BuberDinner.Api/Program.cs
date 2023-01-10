@@ -14,7 +14,7 @@ var builder = WebApplication.CreateBuilder(args);
         options.AddPolicy("FreePolicy",
         policy =>
         {
-            policy.WithOrigins("http://localhost:3000/")
+            policy.WithOrigins("*")
                                                   .AllowAnyHeader()
                                                   .AllowAnyMethod();
         });

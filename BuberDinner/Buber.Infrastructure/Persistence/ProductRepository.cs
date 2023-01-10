@@ -11,7 +11,7 @@ public class ProductRepository : IProductRepository
 
     public ProductRepository()
     {
-        // Add(new Product { Name = "Soccer Ball", Category = "Sports", Manufacturer = "Nike", Stock = 10,  Price = 10 });
+        Add(new Product { Name = "Soccer Ball", Category = "Sports", Manufacturer = "Nike", Stock = 10, Price = 10 });
     }
 
 
