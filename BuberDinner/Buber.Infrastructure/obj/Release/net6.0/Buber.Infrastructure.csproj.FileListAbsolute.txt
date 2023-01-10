@@ -1,0 +1,17 @@
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\bin\Release\net6.0\Buber.Infrastructure.deps.json
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\bin\Release\net6.0\Buber.Infrastructure.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\bin\Release\net6.0\Buber.Infrastructure.pdb
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\bin\Release\net6.0\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\bin\Release\net6.0\Buber.Domain.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\bin\Release\net6.0\Buber.Application.pdb
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\bin\Release\net6.0\Buber.Domain.pdb
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.csproj.CopyComplete
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\refint\Buber.Infrastructure.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\Buber.Infrastructure.pdb
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Infrastructure\obj\Release\net6.0\ref\Buber.Infrastructure.dll

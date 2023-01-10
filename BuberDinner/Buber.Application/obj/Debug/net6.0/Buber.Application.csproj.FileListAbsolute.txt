@@ -1,0 +1,30 @@
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Application.deps.json
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Application.pdb
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Domain.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Domain.pdb
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.csproj.CopyComplete
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\refint\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.pdb
+C:\Users\Meu Computador\Desktop\desafio-dotnet\BuberDinner\Buber.Application\obj\Debug\net6.0\ref\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Application.deps.json
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Application.pdb
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Domain.dll
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\bin\Debug\net6.0\Buber.Domain.pdb
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.AssemblyInfo.cs
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.csproj.CopyComplete
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\refint\Buber.Application.dll
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\Buber.Application.pdb
+C:\Users\Meu Computador\Desktop\dotnet - products CRUD\BuberDinner\Buber.Application\obj\Debug\net6.0\ref\Buber.Application.dll
