@@ -1,6 +1,6 @@
 # Projeto CRUD .NET Core 6 + NextJS
 
-Este projeto é uma RESTful Web API feita com .NET Core 6, que busca implementar os padrões de Clean Architecture e Domain Drive Design.
+Este projeto é uma RESTful Web API feita com .NET Core 6, que busca implementar os padrões de Clean Architecture e Domain Driven Design.
 O consumo das rotas desta API no front-end foi feito utilizando o framework NextJS e se encontra neste repositório: https://github.com/matheusdamiao/nextjs-project.
 Para testar todas as funcionalidades do CRUD é preciso estar com ambos projetos rodando.
 
