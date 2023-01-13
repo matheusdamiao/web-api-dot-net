@@ -11,7 +11,8 @@ public class ProductRepository : IProductRepository
 
     public ProductRepository()
     {
-        Add(new Product { Name = "Soccer Ball", Category = "Sports", Manufacturer = "Nike", Stock = 10, Price = 10 });
+        // Example product Object
+        // Add(new Product { Name = "Soccer Ball", Category = "Sports", Manufacturer = "Nike", Stock = 10, Price = 10 });
     }
 
 
@@ -31,8 +32,8 @@ public class ProductRepository : IProductRepository
         {
             throw new Exception("This is not a valid product");
         }
-
-        product.Id = _nextId++;
+        // tried to increment user's ID but didn't work out
+        // product.Id = _nextId++;
         _products.Add(product);
         return product;
     }

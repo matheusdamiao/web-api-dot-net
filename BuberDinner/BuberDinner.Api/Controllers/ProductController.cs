@@ -25,6 +25,7 @@ public class ProductController : ControllerBase
 
     }
 
+    [EnableCors("FreePolicy")]
     [HttpGet("{id:int}")]
     public Product GetProduct(int id)
     {
@@ -35,6 +36,8 @@ public class ProductController : ControllerBase
         }
         return item;
     }
+
+    [EnableCors("FreePolicy")]
     [HttpGet("{category}")]
     public IEnumerable<Product> GetProductByCategory(string category)
     {
@@ -42,17 +45,16 @@ public class ProductController : ControllerBase
         p => string.Equals(p.Category, category, StringComparison.OrdinalIgnoreCase));
     }
 
-
+    [EnableCors("FreePolicy")]
     [HttpPost("{product}")]
     public HttpResponseMessage PostProduct(Product product)
     {
         var item = _productRepository.Add(product);
         var response = new HttpResponseMessage(HttpStatusCode.Created); ;
-        // var uri = Url.Link("DefaultApi", new { id = item.Id });
-        // response.Headers.Location = new Uri(uri);
         return response;
     }
 
+    [EnableCors("FreePolicy")]
     [HttpPut("{id}/{product}")]
     public void PutProduct(int id, Product product)
     {
@@ -64,7 +66,7 @@ public class ProductController : ControllerBase
 
     }
 
-
+    [EnableCors("FreePolicy")]
     [HttpDelete("{id:int}")]
     public void DeleteProduct(int id)
     {

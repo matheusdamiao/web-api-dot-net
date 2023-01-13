@@ -13,10 +13,8 @@ var builder = WebApplication.CreateBuilder(args);
     {
         options.AddPolicy("FreePolicy",
         policy =>
-        {
-            policy.WithOrigins("*")
-                                                  .AllowAnyHeader()
-                                                  .AllowAnyMethod();
+        {   // Initially, I set to only port:3000, but it was throwing some errors, so I changed to all
+            policy.WithOrigins("*").AllowAnyHeader().AllowAnyMethod();
         });
     });
 }
